@@ -1,6 +1,6 @@
 # Codenation - Aceleração em Data Science
 
-Neste repositório, irei compartilhar a minha experiência! Em cada semana, os notebooks terão o que aprendi das aulas e também minhas observações sobre o assunto tratado!
+Neste repositório, irei compartilhar a minha experiência na aceleração da Codenation! Em cada semana, os notebooks terão o que aprendi das aulas e também minhas observações sobre o assunto tratado!
 
 Ementa da aceleração:
 - Semana 1: Introdução a Ciência de Dados
