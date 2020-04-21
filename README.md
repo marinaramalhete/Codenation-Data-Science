@@ -14,3 +14,6 @@ Ementa da aceleração:
 - Semana 9: Classificação
 
 https://codenation.dev/
+
+
+**_"Dados! Dados! Dados!" ele gritou impacientemente. "Não posso fabricar tijolos sem barro." - Arthur Conan Doyle_**
